@@ -1,13 +1,13 @@
 Summary:	LXQt standard themes
 Summary(pl.UTF-8):	Standardowe motywy LXQt
 Name:		lxqt-themes
-Version:	2.3.0
+Version:	2.4.0
 Release:	1
 License:	LGPL-2.0-or-later
 URL:		https://lxqt-project.org/
 Source0:	https://github.com/lxqt/lxqt-themes/releases/download/%{version}/%{name}-%{version}.tar.xz
-# Source0-md5:	28d01d81463441e37042a34a611b4258
-BuildRequires:	lxqt-build-tools >= 2.3.0
+# Source0-md5:	5f7a80bc279fc8063ecd077653f3731b
+BuildRequires:	lxqt-build-tools >= 2.4.0
 BuildRequires:	perl-base
 Requires:	breeze-cursor-theme
 Requires:	hicolor-icon-theme
